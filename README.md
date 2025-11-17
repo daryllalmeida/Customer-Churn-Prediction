@@ -12,4 +12,4 @@ Conclusion:
 
 - To improve recall—the primary metric for churn—the model was optimized using threshold tuning, lowering the decision cutoff from 0.50 to 0.35. This increased churn recall from 62.7% → 73.2%, meaning the model successfully identifies nearly three-quarters of all customers likely to leave.
 
-- The final model balances precision, recall, accuracy, and business impact while reducing false negatives significantly. Key churn drivers include inactive membership, number of products, zero account balance, and age groups. The project concludes with actionable business recommendations such as targeted activation campaigns, cross-selling strategies, and personalized retention efforts
+- The final model balances precision, recall, accuracy, and business impact while reducing false negatives significantly. Key churn drivers include inactive membership, number of products, zero account balance, and age groups. 
